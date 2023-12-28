@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.latestMatchCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

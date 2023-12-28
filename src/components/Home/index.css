@@ -1,0 +1,36 @@
+/* Write your CSS here */
+* {
+  font-family: 'Bree Serif';
+}
+
+.bgHome {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-sm-bg.png');
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bgHomeHead {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.bgHomeHeadLogo {
+  height: 60px;
+  width: 45px;
+  margin-right: 8px;
+}
+
+.bgHomeUl {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
